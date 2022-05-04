@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @abdallaziz
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-abdallaziz/abdallaziz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+hi l am Abdallaziz
+I hope that to helpful 
+Many service I just need support from you 
+Thanks for following 
